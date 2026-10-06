@@ -18,3 +18,4 @@ rIF_deltaIF.ipynb: Script for calculating |rIF| and |ΔIF|, visualized via split
 
 Conditioner_Based_Couplings_Analysis.ipynb: Computes the Conditioner Dominance Index (CDI), Moderation Gain (MG), Conditioning Pressure (CP), and Convergence Rate (CR).
 
+Terminology note. During peer review, the terminology was standardized from mediator/confounder terminology to the broader terms conditioner/conditioning, because the variables considered in the framework may act as confounders or mediators. Some variable names, comments, or file names in the code may retain the earlier terminology; these refer to the same conditioning procedures and do not affect the calculations or results.

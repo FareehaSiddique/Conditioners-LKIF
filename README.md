@@ -1,10 +1,10 @@
 # Conditioners-LKIF
-Benchmarking Conditioners in Liang–Kleeman Information Flow: Application to Land–Atmosphere Interactions
+Benchmarking Conditioners in Liang–Kleeman Information Flow: Application to Land–Atmosphere Interactions in Humid Forests
 
 This repository provides the MATLAB and Python code used in the analysis presented in:
 
 Benchmarking Conditioners in Liang–Kleeman Information Flow: Application to Land–Atmosphere Interactions
-Siddique et al., 2026 (submitted to Earth System Dynamics)
+Siddique et al., 2026 (Earth System Dynamics)
 
 Repository Structure
 
@@ -16,5 +16,5 @@ Toy Model.ipynb: Demonstrates theoretical synthetic VAR model experiments under 
 
 rIF_deltaIF.ipynb: Script for calculating |rIF| and |ΔIF|, visualized via split-triangle heatmaps.
 
-Conditioner_Based_Couplings_Analysis.ipynb: Computes the Mediator Dominance Index (MDI), Moderation Gain (MG), Confounding Pressure (CP), and Convergence Rate (CR).
+Conditioner_Based_Couplings_Analysis.ipynb: Computes the Conditioner Dominance Index (CDI), Moderation Gain (MG), Conditioning Pressure (CP), and Convergence Rate (CR).
 

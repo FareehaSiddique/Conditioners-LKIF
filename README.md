@@ -3,6 +3,7 @@ Benchmarking Conditioners in Liang–Kleeman Information Flow: Application to La
 Siddique et al., 2026 (Earth System Dynamics)
 
 This repository provides the MATLAB and Python code used in the analysis presented in:
+Benchmarking Conditioners in Liang–Kleeman Information Flow: Application to Land–Atmosphere Interactions in Humid Forests
 
 Repository Structure
 
